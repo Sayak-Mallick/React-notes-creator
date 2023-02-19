@@ -1,6 +1,10 @@
+
+
+
+
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project can be accessed by this link(https://notes-creator-sayak-mallick.netlify.app/).
 
 ## Available Scripts
 
